@@ -906,7 +906,6 @@
     "isdst": false,
     "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd, Minsk",
     "utc": [
-	    "Europe/Kirov",
       "Europe/Moscow",
       "Europe/Simferopol",
       "Europe/Volgograd",
